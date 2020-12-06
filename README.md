@@ -1,7 +1,7 @@
-<img src="https://i.ibb.co/QvgdsXH/fondo-Games.png" alt="c"/>
+<img src="https://i.ibb.co/tMBQCn3/fondo-Games.png" alt="c"/>
 
-# First Java Project (Retro Games): Space Invaders - Pong  - Snake
-Java project created in 2019-2020. It consists of three retro games (Pong + Space Invaders + Snake) created from scratch.
+# Study of Recursive Sorting Algorithms
+Project to analyze, study and approve the recursive ordering algorithms studied in advanced programming class. These algorithms are Bucket Sort, Merge Sort and Quick Sort.
 
 Language: Java
 IDE: IntelliJ IDEA 2020.2.3 x64
