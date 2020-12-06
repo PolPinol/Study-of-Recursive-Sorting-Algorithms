@@ -4,8 +4,11 @@
 Project to analyze, study and approve the recursive ordering algorithms studied in advanced programming class. These algorithms are Bucket Sort, Merge Sort and Quick Sort.
 
 Language: Java
+
 IDE: IntelliJ IDEA 2020.2.3 x64
+
 Version: Java 15.0.1 (onpenjdk - 15 java version "15.0.1")
+
 
 Compilation: Check that in 'Edit Configuration' -> 'Application' -> 'Main' -> 'VM options' contains '-ea' to accept assertions, followed by 'Build Project' with the class 'Main' as the main class.
 
